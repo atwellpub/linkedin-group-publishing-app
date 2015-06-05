@@ -1,0 +1,12 @@
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\bin\Debug\LinkedInApp.exe.config
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.csprojResolveAssemblyReference.cache
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.MainForm.resources
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.Properties.Resources.resources
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.csproj.GenerateResource.Cache
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\bin\Debug\LinkedInApp.exe
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\bin\Debug\LinkedInApp.pdb
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.exe
+D:\Project\Scrape Stag\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.pdb
+F:\Work\Sales Scripts\LinkedIn\Group Posting Application\LinkedInApp\LinkedInApp\LinkedInApp\bin\Debug\LinkedInApp.exe.config
+F:\Work\Sales Scripts\LinkedIn\Group Posting Application\LinkedInApp\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.exe
+F:\Work\Sales Scripts\LinkedIn\Group Posting Application\LinkedInApp\LinkedInApp\LinkedInApp\obj\Debug\LinkedInApp.pdb
